@@ -14,3 +14,5 @@ Example essays can be found at [https://github.com/juncture-digital/examples](ht
 title="This is a Photo!"
 description="And this is the description where I describe the descriptors."
 fit="contain">
+
+<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a&gt;
